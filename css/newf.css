@@ -1,0 +1,14 @@
+@import url(common.css);
+
+.log .main_width img.ban{float:left;margin:48px 0 3px 0;}
+.log .main_width .xmm li{float:left;margin-bottom:48px;}
+.log .main_width .xmm {margin:0 auto;border:1px solid purple;padding:64px 216px 228px 230px;text-align:center;}
+.log .main_width .xmm li.m1{color:#41ccf3;padding-left:73px;}
+.log .main_width .xmm li.m2{color:#41ccf3;padding-left:105px;}
+.log .main_width .xmm li.m3{color:#cccccc;padding-left:121px;}
+.log .main_width .xmm .finsh{margin-left:148px;}
+.log .main_width .xmm .finsh img{float:left;margin-right:23px;}
+.log .main_width .xmm p{width:275px;}
+.log .main_width .xmm p.fh{font-size:16px;color:#41ccf3;margin-left:-60px;}
+.log .main_width .xmm p a:hover{cursor:pointer;color:#41ccf3;}
+

@@ -1,0 +1,19 @@
+@import url(common.css);
+
+.log .main_width img.ban{float:left;margin:48px 0 36px 0;}
+.log .main_width .n_mm li{float:left;margin-bottom:52px;margin-left:62px;}
+.log .main_width .n_mm{margin:0 auto;border:1px solid purple;padding:64px 216px 96px 230px}
+.log .main_width .n_mm li.m1{color:#6ddfff;padding-left:14px;}
+.log .main_width .n_mm li.m2{color:#cccccc;padding-left:40px;}
+.log .main_width .n_mm li.m3{color:#cccccc;padding-left:58px;}
+.log .main_width .n_mm span{font-size:14px;margin-right:14px;}
+.log .main_width .n_mm p input.tel{width:308px;height:34px;line-height:34px;border:1px solid #dddddd;background:url(../images/zh.png) no-repeat 278px 5px;text-indent:12px;margin:22px 0 12px 0;}
+.log .main_width .n_mm input.yzm{width:111px;height:34px;line-height:34px;margin:0 8px 24px 0;border:1px solid #dddddd;}
+.log .main_width .n_mm input.tj{border-radius:8px;width:132px;height:32px;line-height:32px;background:#41ccf3;color:#fff;font-size:16px;margin-left:199px;border:0;outline:0;}
+.log .main_width .n_mm input.jl{margin-right:6px;padding-top:2px;}/*???*/
+.log .main_width .n_mm span.hq{border:1px solid #41ccf3;padding:9px 18px;text-align:center;}
+.log .main_width .n_mm span.hq a{color:#41ccf3;font-size:14px;}
+.log .main_width .n_mm span.j{margin-right:18px;}
+.log .main_width .n_mm p.z{margin-left:64px;}
+.log .main_width .n_mm p.t{margin-left:90px;}
+.log .main_width .n_mm p.y{margin-left:77px;}

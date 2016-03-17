@@ -1,0 +1,27 @@
+@import url(common.css);
+
+.log .l_width{width:1000px;margin:0 auto;}
+.log .l_width img.ban{float:left;margin:48px 0 36px 0;}
+.log .l_width .pt_dl{padding:50px 0 60px 62px;border:1px solid purple;width:;}
+.log .l_width .pt_dl p{font-size:14px;margin-bottom:7px;width:308px;}
+.log .l_width .pt_dl p.mq{margin-left:48px;}
+.log .l_width .pt_dl span.xh{font-size:12px;color:#f61d1d;margin-left:10px;}
+.log .l_width .pt_dl span.yzm{padding:10px 14px;background:#ccc6c1;margin-right:12px;}
+.log .l_width .pt_dl span.r{margin:0 3px 0 9px;background:#fcbb6e;padding:4px 16px;color:#fff;}
+.log .l_width .pt_dl span.z,.log .l_width .pt_dl span.q{margin-right:3px;background:#dddddd;padding:4px 16px;}
+
+.log .l_width .pt_dl input{width:315px;height:32px;line-height:32px;font-size:14px;margin-bottom:14px;text-indent:12px;border:1px solid #dddddd;}
+.log .l_width .pt_dl select{margin-bottom:15px;border:1px solid #dddddd;}
+.log .l_width .pt_dl input.number{background:url(../images/zh.png) no-repeat 275px 6px; }
+.log .l_width .pt_dl input.passwd{background:url(../images/passwd.png) no-repeat 278px 2px;}
+.log .l_width .pt_dl input.y{width:111px;height:34px;line-height:34px;margin-right:10px;}
+.log .l_width .pt_dl input.tk{width:11px;height:11px;border:1px solid #0f548b;margin-right:11px;}
+.log .l_width .pt_dl span.xytk a{color:#41ccf3;}
+.log .l_width .pt_dl p.bzc{width:310px;height:32px;background:#41ccf3;line-height:32px;border-radius:8px;text-align:center;margin-top:5px;}
+.log .l_width .pt_dl p.bzc a{color:#fff;font-size:16px;display:block;}
+.log .l_width .pt_dl p.yzc{margin-left:207px;}
+.log .l_width .pt_dl p.yzc span.qdl a{color:#41ccf3;}
+.log .l_width .pic img{float:right;margin:0 37px 0 0;}
+.log .l_width .pt_dl textarea{margin-bottom:20px;}
+
+

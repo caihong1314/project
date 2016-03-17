@@ -1,0 +1,20 @@
+@import url(common.css);
+
+.log .l_width{width:1001px;height:612px;margin:0 auto;}
+.log .l_width img.ban{float:left;margin:48px 0 65px 0;}
+.log .l_width .dengl img{float:left;margin-right:56px;}
+.log .l_width .dengl  ul li{float:left;width:124px;height:40px;text-align:center;line-height:40px;background:#f5f5f5;}
+.log .l_width .dengl  ul li a{display:block;}
+.log .l_width .dengl  ul li.pt{background:#41ccf3;}
+.log .l_width .dengl  ul li.pt a{color:#fff;font-size:14px;display:block;}
+.log .l_width .dengl .login{width:316px;height:210px;float:right;border:1px solid #dddddd;
+padding:45px 58px;}
+.log .l_width .dengl .login p{font-size:14px;margin-bottom:7px;}
+.log .l_width .dengl .login p span{font-size:12px;padding-left:225px;}
+.log .l_width .dengl .login p.btn{width:310px;height:32px;background:#41ccf3;line-height:32px;border-radius:8px;text-align:center;margin-top:5px;}
+.log .l_width .dengl .login p.btn a{color:#fff;font-size:16px;display:block;}
+.log .l_width .dengl .login input{width:306px;height:32px;font-size:14px;margin-bottom:14px;text-indent:12px;border:1px solid #dddddd;}
+.log .l_width .dengl .login input.zh{background:url(../images/zh.png) no-repeat 275px 6px; }
+.log .l_width .dengl .login input.passwd{background:url(../images/passwd.png) no-repeat 278px 2px;}
+.log .l_width .dengl .login p.zc{padding-left:252px;}
+.log .l_width .dengl .login p.zc a{font-size:12px;color:#999999;}

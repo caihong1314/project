@@ -1,0 +1,18 @@
+@import url(common.css);
+
+hr.hr{border:1px soloid #eeeeee;width:1000px;}
+.new .main_width .n_content{height:126px;padding:47px 0;}
+/*.new .main_width .n_content2{background:#f2f2f2;}
+.new .main_width .n_content p{display:inline;}   */
+.new .main_width .n_content .d{width:50px;float:left;margin:28px 58px 28px 38px; }
+.new .main_width .n_content span.rq{font-size:48px;font-family:Arial;color:#4183d7;}
+.new .main_width .n_content span.n_y{font-size:14px;font-family:Arial;color:#4183d7;padding-top:5px;}
+.new .main_width .n_content p{line-height:1.6em;font-size:14px;width:581px;float:left;}
+.new .main_width .n_content p a{padding-left:15px;}
+.new .main_width .n_content h2{margin-bottom:22px;font-size:18px;}
+.new .main_width img{float:left;margin-right:20px;}
+
+.p_page .p_content dd.xw_mr{background:#efefef;}
+
+
+

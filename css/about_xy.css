@@ -1,0 +1,52 @@
+@import url(common.css);
+
+.nav .nav_width dl dd ul{display:none;}
+.nav .nav_width dl dd:hover ul{display:block;background:#fff;}/*???*/
+.nav .nav_width dl dd:hover ul a{color:#333;}
+.nav .nav_width dd:hover ul li a{display:block;}  /*======*/
+.nav .nav_width dl dd ul li:hover{color:#41ccf3;background:#fff;} 
+.nav .nav_width dl dd ul li a:hover{color:#41ccf3;background:#fff;}
+
+.nav  .nav_width dl dd.xy{background:#41ccf3;}
+.nav  .nav_width  dl dd.xy a{color:#fff;display:block;}
+
+.breadcrumb .title{height:30px;line-height:30px;}
+.breadcrumb .title p{color:#999999;}
+
+.breadcrumb .title p{margin-left:250px;margin-top:23px;}
+.f_share .share_l p{margin:28px 0 16px 28px;font-size:24px;color:#fff;}
+.f_share .share_l p span{font-size:12px;font-family:Arial;background:url(../images/gx_x.png) no-repeat 0px 19px;display:block;height:25px;margin-top:12px;}
+.f_share .share_l{width:212px;float:left;background:#41ccf3;margin-top:-30px;height:361px;}
+.f_share .share_l ul{margin:20px 0 0 81px;}
+.f_share .share_l ul li{width:129px;height:38px;line-height:38px;border:1px solid #fff;margin-bottom:13px;}
+.f_share .share_l ul li a{margin-left:15px;font-size:14px;}
+.f_share .share_l ul li.about{background:#fff;}
+.f_share .share_l ul li.about a{color:#41ccf3;}
+.f_share .share_l ul li:hover{background:#fff;}
+.f_share .share_l ul li:hover a{color:#41ccf3;display:block;}
+
+/*.f_share .share_r{float:left;width:790px;}  为何会走下去呢
+.f_share .share_r .s_all{float:left;margin-left:38px;}   */
+
+.f_share .share_r{float:left;width:788px;}
+.f_share .share_r .s_all{margin-left:38px;}
+.f_share .share_r .s_all h3{font-size:16px;font-style:bold;border-left:2px solid #41ccf3;padding-left:12px;margin-bottom:16px;float:left;}
+
+.f_share .share_r .s_all .company img{float:left;margin-right:16px;}
+.f_share .share_r .s_all .company{margin:48px 0 52px 0;}
+.f_share .share_r .s_all p{text-indent:2em;line-height:1.7;}
+.share_r .s_all .company p.p1{width:385px;height:150px;float:left;}
+.share_r .s_all .culture{margin-bottom:50px;}
+.share_r .s_all .culture p.p2{width:378px;height:148px;margin-right:2px;float:left;}
+.f_share .share_r .s_all .culture img{float:right;margin-top:0;}  /*此处的左浮和又浮动*/
+
+.f_share .share_r .s_all h3.s{margin-bottom:27px;float:none;}
+.f_share .share_r .show p.p3{height:73px;margin-bottom:15px;}
+.f_share .share_r .s_all .c_show li{float:left;margin-right:10px;}
+.f_share .share_r .s_all .c_show li span{display:block;padding-left:10px;}
+
+
+
+
+  
+

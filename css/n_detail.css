@@ -1,0 +1,18 @@
+@import url(common.css);
+
+.ndetail .main_width{text-align:center;}
+.ndetail .main_width p.title{font-size:18px;margin:38px 0 12px 0;}
+.ndetail .main_width p.time{font-size:12px;color:#999;margin-bottom:32px;}
+hr.hr{border:1px soloid #eeeeee;width:1000px;}
+.ndetail .main_width .n_all{width:742px;margin:0 auto;}
+.ndetail .main_width .n_all p{text-indent:2em;font-size:14px;line-height:2em;text-align:left;}/*margin-bottom:32px;*/
+.ndetail .main_width .n_all p.p_1{text-indent:2em;font-size:14px;line-height:2em;text-align:left;margin-bottom:30px;}
+.ndetail .main_width .n_all img.img1{margin:21px 0 36px 0;}
+.ndetail .main_width .n_all img.img2{margin:21px 0 24px 0;}
+.ndetail .main_width .n_all p.sc{width:78px;height:32px;text-align:center;line-height:32px;border:1px solid #dddddd;background:url(../images/star.png) no-repeat 17px 9px;float:right;margin:30px 0 20px 0;}
+
+ .ndetail .main_width .sx_p p.s{margin:14px 0 20px 0;text-align:left;margin-left:138px;}
+ .ndetail .main_width .sx_p p.x a{color:#41ccf3;text-decoration:underline;}
+ .ndetail .main_width .sx_p p.x{text-align:left;margin-left:138px;}
+
+

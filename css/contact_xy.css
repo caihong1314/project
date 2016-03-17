@@ -1,0 +1,44 @@
+@import url(common.css);
+
+.nav .nav_width dl dd ul{display:none;}
+.nav .nav_width dl dd:hover ul{display:block;background:#fff;}/*???*/
+.nav .nav_width dl dd:hover ul a{color:#333;}
+.nav .nav_width dd:hover ul li a{display:block;}  /*======*/
+.nav .nav_width dl dd ul li:hover{color:#41ccf3;background:#fff;} 
+.nav .nav_width dl dd ul li a:hover{color:#41ccf3;background:#fff;}
+
+.nav  .nav_width dl dd.xy{background:#41ccf3;}
+.nav  .nav_width  dl dd.xy a{color:#fff;display:block;}
+
+.breadcrumb .title{height:30px;line-height:30px;}
+.breadcrumb .title p{color:#999999;}
+
+.breadcrumb .title p{margin-left:250px;margin-top:23px;}
+.f_share .share_l p{margin:28px 0 16px 28px;font-size:24px;color:#fff;}
+.f_share .share_l p span{font-size:12px;font-family:Arial;background:url(../images/gx_x.png) no-repeat 0px 19px;display:block;height:25px;margin-top:12px;}
+.f_share .share_l{width:212px;float:left;background:#41ccf3;margin-top:-30px;height:361px;}
+.f_share .share_l ul{margin:20px 0 0 81px;}
+.f_share .share_l ul li{width:129px;height:38px;line-height:38px;border:1px solid #fff;margin-bottom:13px;}
+.f_share .share_l ul li a{margin-left:15px;font-size:14px;}
+.f_share .share_l ul li.contact{background:#fff;}
+.f_share .share_l ul li.contact a{color:#41ccf3;}
+.f_share .share_l ul li:hover{background:#fff;}
+.f_share .share_l ul li:hover a{color:#41ccf3;display:block;}
+
+/*.f_share .share_r{float:left;width:790px;}  为何会走下去呢
+.f_share .share_r .s_all{float:left;margin-left:38px;}   */
+
+.f_share .share_r{float:left;width:788px;}
+.f_share .share_r .s_all{margin-left:38px;}
+.f_share .share_r .s_all ul{margin-top:20px;}
+.f_share .share_r .s_all li{text-indent:30px;margin-bottom:16px;color:#666;}
+.f_share .share_r .s_all li.l1{background:url(../images/lx.png) no-repeat 11px 2px;}
+.f_share .share_r .s_all li.l2{background:url(../images/lx.png) no-repeat 9px -20px;}
+.f_share .share_r .s_all li.l3{background:url(../images/lx.png) no-repeat 11px -47px;}
+.f_share .share_r .s_all li.l4{background:url(../images/lx.png) no-repeat 10px -80px;}
+.f_share .share_r .s_all img{margin-top:23px;}
+
+
+
+  
+

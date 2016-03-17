@@ -1,0 +1,48 @@
+@import url(common.css);
+
+.nav .nav_width dl dd ul{display:none;}
+.nav .nav_width dl dd:hover ul{display:block;background:#fff;}/*???*/
+.nav .nav_width dl dd:hover ul a{color:#333;}
+.nav .nav_width dd:hover ul li a{display:block;}  /*======*/
+.nav .nav_width dl dd ul li:hover{color:#41ccf3;background:#fff;} 
+.nav .nav_width dl dd ul li a:hover{color:#41ccf3;background:#fff;}
+
+.nav  .nav_width dl dd.f_active{background:#41ccf3;}
+.nav  .nav_width  dl dd.f_active a{color:#fff;display:block;}
+
+.breadcrumb .title{height:30px;line-height:30px;}
+.breadcrumb .title p{color:#999999;}
+
+.breadcrumb .title p{margin-left:250px;margin-top:23px;}
+.f_share .share_l p{margin:28px 0 16px 28px;font-size:24px;color:#fff;}
+.f_share .share_l p span{font-size:12px;font-family:Arial;background:url(../images/gx_x.png) no-repeat 0px 19px;display:block;height:25px;margin-top:12px;}
+.f_share .share_l{width:212px;float:left;background:#41ccf3;margin-top:-30px;height:361px;}
+.f_share .share_l ul{margin:20px 0 0 81px;}
+.f_share .share_l ul li{width:129px;height:38px;line-height:38px;border:1px solid #fff;margin-bottom:13px;}
+.f_share .share_l ul li a{margin-left:15px;font-size:14px;}
+.f_share .share_l ul li.wss{background:#fff;}
+.f_share .share_l ul li.wss a{color:#41ccf3;}
+.f_share .share_l ul li:hover{background:#fff;}
+.f_share .share_l ul li:hover a{color:#41ccf3;display:block;}
+
+/*.f_share .share_r{float:left;width:790px;}  为何会走下去呢
+.f_share .share_r .s_all{float:left;margin-left:38px;}   */
+
+.f_share .share_r{float:left;width:788px;}
+.f_share .share_r .s_all{margin-left:38px;}
+.f_share .share_r .s_all h2{font-size:18px;margin:30px 0 16px 183px;}
+.f_share .share_r .s_all h4{font-size:12px;color:#999;margin-left:245px;}
+.f_share .share_r .s_all img{margin:23px 0 28px 0;}
+.f_share .share_r .s_all p{text-indent:2em;font-size:14px;line-height:1.7;margin-bottom:30px;}
+hr.hr{width:750px;border:1px dotted #d8d8d8;}
+
+.f_share .share_r .s_all p.sc{width:78px;height:32px;text-align:center;line-height:32px;border:1px solid #dddddd;background:url(../images/star.png) no-repeat 17px 9px;float:right;margin:30px 0 20px 0;}
+
+ .f_share .share_r .sx_p p.s{margin:14px 0 20px 0;text-align:left;margin-left:138px;}
+ .f_share .share_r .sx_p p.x a{color:#41ccf3;text-decoration:underline;}
+ .f_share .share_r .sx_p p.x{text-align:left;margin-left:138px;}
+
+
+
+  
+

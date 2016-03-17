@@ -1,0 +1,18 @@
+@import url(common.css);
+
+.log .main_width img.ban{float:left;margin:48px 0 36px 0;}
+.log .main_width .xmm li{float:left;margin-bottom:48px;}
+.log .main_width .xmm {margin:0 auto;border:1px solid purple;padding:64px 216px 96px 230px}
+.log .main_width .xmm li.m1{color:#41ccf3;padding-left:73px;}
+.log .main_width .xmm li.m2{color:#41ccf3;padding-left:105px;}
+.log .main_width .xmm li.m3{color:#cccccc;padding-left:121px;}
+.log .main_width .xmm p.tj{width:130px;height:32px;line-height:32px;text-align:center;background:#41ccf3;border-radius:8px;margin-top:22px;margin-left:203px;}
+.log .main_width .xmm p.tj a{font-size:16px;color:#fff;}
+.log .main_width .xmm input{width:307px;height:32px;line-height:32px;font-size:14px;margin:10px 0;text-indent:12px;border:1px solid #dddddd;}
+.log .main_width .xmm span.r{margin:0 3px 0 9px;background:#fcbb6e;padding:4px 16px;color:#fff;font-size:12px;}
+.log .main_width .xmm span.z,.log .main_width .xmm span.q{margin-right:3px;background:#dddddd;padding:4px 16px;font-size:12px;}
+.log .main_width .xmm span.xh{font-size:12px;color:#f61d1d;margin-left:10px;}
+.log .main_width .xmm span.mm{margin-left:28px;}
+.log .main_width .xmm span{font-size:14px;}
+.log .main_width .xmm input.passwd{background:url(../images/passwd.png) no-repeat 278px 2px;}
+.log .main_width .xmm  p.mq{margin:5px 0 5px 102px;font-size:14px;}
